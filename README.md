@@ -111,3 +111,13 @@ Script: [empty-trash](empty-trash)
 ```sh
 empty-trash
 ```
+
+### 🏹 Custom short GitHub URL
+
+Script: [gh-url](gh-url)
+
+```sh
+gh-url <url-to-shorten> <custom-code>
+```
+
+*It will shorten your GitHub URLs to https://git.io/{custom-code}.*
